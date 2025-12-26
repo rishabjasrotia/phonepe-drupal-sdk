@@ -1,5 +1,5 @@
 {
-  "name": "phonepe/phonepe-drupal-sdk",
+  "name": "rishabjasrotia/phonepe-drupal-sdk",
   "description": "PhonePe Drupal Payment Gateway SDK for PHP",
   "type": "library",
   "license": "MIT",

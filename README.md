@@ -9,7 +9,7 @@ This library is used as a dependency by the Drupal Commerce PhonePe Payment modu
 For standalone usage, install via Composer:
 
 ```bash
-composer require phonepe/phonepe-drupal-sdk
+composer require rishabjasrotia/phonepe-drupal-sdk
 ```
 
 ## Usage
